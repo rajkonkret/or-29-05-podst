@@ -66,3 +66,4 @@ print(f"Wynik porównania {a} != {b}", a != b)  # != - rózne
 # Wynik porównania 14 < 3 False
 # Wynik porównania 14 == 3 False
 # Wynik porównania 14 != 3 True
+# 14:00
