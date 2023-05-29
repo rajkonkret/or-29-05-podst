@@ -21,7 +21,8 @@ print(dictionary)  # {'x': 2}
 dictionary.update([('y', 3), ('z', 0)])
 print(dictionary)  # {'x': 2, 'y': 3, 'z': 0}
 
-dict2 = {'imie': 'name', 'kot': 'cat'}
+dict2 = {'imie': 'name', 'kot': 'cat', 'pies': 'dog'}
+dict2.update({'szkło': 'glass'})
 print("MAmy w słowniku", dict2.keys())
 key = input("Podaj słowko do przetłumaczenia")  # input - wczytuje dane od uzytkownika (str)
 print(dict2[key.lower().replace(" ", "")])
