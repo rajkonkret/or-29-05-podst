@@ -59,9 +59,9 @@ a = 14
 b = 3
 print(f"Wynik porównania {a} > {b}", a > b)  # Wynik porównania 14 > 3 True
 print(f"Wynik porównania {a} < {b}", a < b)
-print(f"Wynik porównania {a} == {b}", a < b)  # porównanie czy a równa sie b
+print(f"Wynik porównania {a} == {b}", a == b)  # porównanie czy a równa sie b
 print(f"Wynik porównania {a} != {b}", a != b)  # != - rózne
-
+#
 # Wynik porównania 14 > 3 True
 # Wynik porównania 14 < 3 False
 # Wynik porównania 14 == 3 False
