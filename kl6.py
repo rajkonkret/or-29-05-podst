@@ -25,7 +25,7 @@ pracownik.przedstaw_sie()
 wynagrodzenie_pracownika = pracownik.oblicz_wynagrodzenie()
 print(f"Wynagrodzenie dla {pracownik.imie} {pracownik.nazwisko}: {wynagrodzenie_pracownika} zł")
 
-menadzer = Menadzer("Anna", "Nowak",8000, 2500)
+menadzer = Menadzer("Anna", "Nowak", 8000, 2500)
 menadzer.przedstaw_sie()
 wynagrodzenie_menadzera = menadzer.oblicz_wynagrodzenie()
 print(f"Wynagrodzenie dla {menadzer.imie} {menadzer.nazwisko}: {wynagrodzenie_menadzera} zł")
