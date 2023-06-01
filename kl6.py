@@ -33,3 +33,8 @@ print(f"Wynagrodzenie dla {menadzer.imie} {menadzer.nazwisko}: {wynagrodzenie_me
 # Wynagrodzenie dla Jan Kowalski: 5000 zł
 # Cześć, jestem Anna Nowak
 # Wynagrodzenie dla Anna Nowak: 10500 zł
+# Wynagrodzenie dla Anna Nowak: 10500 zł
+# Wynagrodzenie dla Anna Nowak: 10500 zł
+# ctl d - kopiowanie linii
+# ctrl shift strzałeczki gora/dól - zamienianie kolejnosci linijek
+
