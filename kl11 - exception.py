@@ -8,4 +8,4 @@ try:
 except Exception as e:
     print(e)  # wystąpił bład
 
-# 11:20
+# 11:25
