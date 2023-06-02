@@ -22,8 +22,8 @@ try:
     # cursor.execute(delete)
 
     # update na bazie
-    cursor.execute(update)
-    sql_connection.commit()
+    # cursor.execute(update)
+    # sql_connection.commit()
 
 except sqlite3.Error as e:
     print("Błąd podcczas podłaczania bazy", e)
