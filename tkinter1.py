@@ -1,7 +1,7 @@
 import tkinter
 
 
-# bibliotek do okienek
+# biblioteka do okienek
 
 class MyGui:
 
